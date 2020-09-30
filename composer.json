@@ -28,10 +28,10 @@
         "luxplus/neo4j-bolt": "dev-master",
         "symfony/event-dispatcher": "^2.7 || ^3.0 || ^4.0 || ^5.0",
         "myclabs/php-enum": "^1.4",
-        "php-http/httplug": "^2.2",
-        "php-http/message-factory": "^1.0",
-        "php-http/client-common": "^1.0",
-        "php-http/discovery": "^1.0",
+        "php-http/httplug": "^2.0",
+        "php-http/message-factory": "^2.0",
+        "php-http/client-common": "^2.0",
+        "php-http/discovery": "^2.0",
 
         "php-http/message": "^1.0",
         "php-http/guzzle7-adapter": "^0.1"

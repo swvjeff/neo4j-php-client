@@ -12,7 +12,7 @@
 namespace GraphAware\Neo4j\Client\Event;
 
 use GraphAware\Common\Result\ResultCollection;
-use use Symfony\Contracts\EventDispatcher\Event;
+use Symfony\Contracts\EventDispatcher\Event;
 
 class PostRunEvent extends Event
 {

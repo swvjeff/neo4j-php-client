@@ -14,7 +14,7 @@ namespace GraphAware\Neo4j\Client\HttpDriver;
 use GraphAware\Common\Connection\BaseConfiguration;
 use GraphAware\Common\Driver\ConfigInterface;
 use GraphAware\Common\Driver\DriverInterface;
-use Http\Adapter\Guzzle6\Client;
+use Http\Adapter\Guzzle7\Client;
 
 class Driver implements DriverInterface
 {
